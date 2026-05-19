@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+
+.venv/
+**/.venv/
+
+datasets/
+**/datasets/
+
+AB_Test/Data/
+data_analysis_with_py/mydata.sqlite
